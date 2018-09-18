@@ -1,2 +1,2 @@
 # freecodecamp-tasks
-My solutions of the freecodecamp tasks
+My solutions for the freecodecamp tasks
